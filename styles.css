@@ -9,18 +9,41 @@ display: block;
 }
 
 h1 {
-    font-size: x-large;
+    font-size: xx-large;
     text-align: center;
     font-weight: bold;
     color: black;
+    margin-bottom: 50px;
 }
 
-ul {
+h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
-    list-style: ;
+    text-align: center;
 }
 
-li {
-    margin-bottom: 15px;
+div {
+    padding: 30px;
+    margin-bottom: 10px;
 }
+
+.ct {
+    background-color: lightseagreen;
+}
+
+.mc {
+    background-color: lightgoldenrodyellow;
+}
+
+.cm {
+    background-color: lightskyblue;
+}
+
+/* li {
+    padding: 30px;
+    text-align: center;
+    color: white;
+    margin-bottom: 15px;
+} */
+
+
